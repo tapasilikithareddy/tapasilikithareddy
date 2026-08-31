@@ -175,10 +175,35 @@ Cloud & Deployment
         ↓
 System Design & Problem Solving
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tapasilikithareddy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasilikithareddy&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tapasilikithareddy&theme=tokyonight&hide_border=true" /> </p>
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapasilikithareddy&theme=tokyo-night&hide_border=true" /> </p>
-🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:tapasilikithareddy@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tapasilikithareddy"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <b>✨ Thanks for visiting my profile! ✨</b> </p> <p align="center"> <i>Build • Learn • Improve • Repeat 🚀</i> </p> ```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tapasilikithareddy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapasilikithareddy&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tapasilikithareddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile! ✨
+</p>
+
+<p align="center">
+  <i>Build • Learn • Improve • Repeat 🚀</i>
+</p>
