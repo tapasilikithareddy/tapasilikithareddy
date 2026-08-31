@@ -373,6 +373,14 @@ A machine learning project that segments customers based on demographic and spen
 
 ---
 
+<h2>✈️ GitHub Space Shooter</h2>
+
+<p align="center">
+  <img src="./assets/space_shooter.gif" width="900" />
+</p>
+
+---
+
 <h2>
   💡 My GitHub Philosophy
 </h2>
