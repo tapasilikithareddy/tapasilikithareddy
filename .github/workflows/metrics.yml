@@ -61,5 +61,5 @@ jobs:
           template: classic
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           filename: assets/metrics.plugin.achievements.svg
