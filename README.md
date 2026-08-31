@@ -1,86 +1,184 @@
-<h1 align="center" style="color:#faebee"> 
-  <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" /> 
-</h1> 
-<div align="center"> 
-  <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" /> 
-  <img height="40px" src="https://img.shields.io/badge/-LIKITHA-333d7a?&style=for-the-badge&logoWidth=50" /> 
-  <img height="40px" src="https://img.shields.io/badge/-REDDY-faebee?&style=for-the-badge&logoWidth=50" /> 
-  <img height="40px" src="https://img.shields.io/badge/-TAPASI-333d7a?&style=for-the-badge&logoWidth=50" />
-  <br><br>
+# Hi, I'm Likitha Reddy 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a&size=32&center=true&vCenter=true&width=800&height=70&pause=1000&background=faebee&lines=Hi+there+I'm+Likitha+Reddy+Tapasi+👋" alt="Headline" />
-  <br><br>
+### 💻 Software Engineer | Python • Java • C# • JavaScript
 
-  <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://x.com/likithaaonline"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://discordapp.com/users/1349001031467401268"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> 
-  <a href="mailto:tapasilikithareddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-<br><br>
+Building practical applications, exploring AI, and continuously improving my software engineering skills. 🚀
 
-  ```py
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
+<p align="center">
+  <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Likitha%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tapasilikithareddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tapasilikithareddy">
+    <img src="https://img.shields.io/badge/GitHub-tapasilikithareddy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-class Developer:
+---
 
-    def __init__(self):
-        self.name = "Likitha Reddy Tapasi 😄"
-        self.role = "Software Engineer 💻"
-        self.love = "Cloud ☁️ and Backend 💖"
-        self.location = "Somewhere on Earth 🌍"
+## 👩‍💻 About Me
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Interested in Software Engineering, Full-Stack Development, Backend Development, and AI
+- 🐍 Building applications with Python
+- ☕ Working with Java and object-oriented programming
+- 🌐 Developing web applications using JavaScript, React, HTML, and CSS
+- 🤖 Exploring RAG, LLM applications, and Machine Learning
+- ☁️ Familiar with AWS and Google Cloud fundamentals
+- 🔐 Interested in secure application development
+- 🚀 Enjoy turning ideas into practical, working projects
+- 🌱 Continuously learning and improving my development skills
 
-me = Developer()
-me.say_hi()
-```
+---
 
-<br> 
-<h1 align="center"> 
-  <img height="40px" src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50" /> 
-</h1> 
-<div align="center"> 
-  <h3 align="center"> 
-    <img height="25px" src="https://img.shields.io/badge/-Languages-faebee?&style=for-the-badge&logoWidth=50" /> 
-  </h3> 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  </p> 
-  <h3 align="center"> 
-    <img height="25px" src="https://img.shields.io/badge/-Backend Frameworks-faebee?&style=for-the-badge&logoWidth=50" /> 
-  </h3> 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
-  </p> 
-  <h3 align="center"> 
-    <img height="25px" src="https://img.shields.io/badge/-Frontend-faebee?&style=for-the-badge&logoWidth=50" /> 
-  </h3> 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  </p> 
-  <h3 align="center"> 
-    <img height="25px" src="https://img.shields.io/badge/-Database-faebee?&style=for-the-badge&logoWidth=50" /> 
-  </h3> 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  </p> 
-  <h3 align="center"> 
-    <img height="25px" src="https://img.shields.io/badge/-Cloud & DevOps-faebee?&style=for-the-badge&logoWidth=50" /> 
-  </h3> 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  </p> 
-</div> 
-<br> 
-<div align="center"> 
-  <img align="center" width="800px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> 
-</div>
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### ☁️ Salesforce
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+Salesforce Administrator • Salesforce Platform Developer I • Salesforce Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Chat with PDF & Website — RAG Pipeline
+
+A Retrieval-Augmented Generation application that processes information from PDF documents and websites and enables users to interact with the retrieved content.
+
+**Tech:** Python • Streamlit • LangChain • FAISS • Sentence Transformers
+
+🔗 [View Project](https://github.com/tapasilikithareddy/Chat-with-PDF-and-Website-Using-RAG-Pipeline)
+
+---
+
+### 📋 Team Task Manager
+
+A full-stack task management application with authentication, role-based access, project creation, task assignment, and task tracking.
+
+**Tech:** Python • Flask • HTML • CSS • SQLite
+
+🔗 [View Project](https://github.com/tapasilikithareddy/team-task-manager)
+
+---
+
+### 💰 Personal Finance Management System
+
+A full-stack application designed to help users manage and organize personal financial information.
+
+**Tech:** JavaScript • Java • HTML • CSS
+
+🔗 [View Project](https://github.com/tapasilikithareddy/Personal-Finance-Management-System)
+
+---
+
+### 🍎 Apple Website Clone
+
+An interactive Apple-inspired website featuring 3D elements, animations, and responsive design.
+
+**Tech:** React • Three.js • GSAP • JavaScript
+
+🔗 [View Project](https://github.com/tapasilikithareddy/Apple-Website-Clone-with-React-Three.js-GSAP)
+
+---
+
+### 🔐 Secure Data Hiding in Image
+
+A Python-based steganography project for hiding and extracting information within images while maintaining visual integrity.
+
+**Tech:** Python • OpenCV • NumPy • Pillow • Tkinter
+
+🔗 [View Project](https://github.com/tapasilikithareddy/Secure-Data-Hiding-in-Image)
+
+---
+
+### 📊 Customer Segmentation using K-Means
+
+A machine learning project that segments customers based on demographic and spending behavior using K-Means clustering.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+
+🔗 [View Project](https://github.com/tapasilikithareddy/Customer-Segmentation-KMeans)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+Sree Vidyanikethan Engineering College  
+2021 – 2025
+
+---
+
+## 📜 Certifications & Learning
+
+- 🏆 Salesforce Administrator
+- 🏆 Salesforce Platform Developer I
+- ☁️ AWS Academy Cloud Foundations
+- ☁️ Google Cloud Foundations
+- 💻 IBM SkillsBuild
+- 📚 Coursera
+- ☁️ Infosys Springboard
+- 💼 TCS iON Career Edge
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Software Engineering
+        ↓
+Backend Development
+        ↓
+AI & RAG Applications
+        ↓
+Cloud & Deployment
+        ↓
+System Design & Problem Solving
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tapasilikithareddy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasilikithareddy&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=tapasilikithareddy&theme=tokyonight&hide_border=true" /> </p>
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapasilikithareddy&theme=tokyo-night&hide_border=true" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:tapasilikithareddy@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tapasilikithareddy"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <b>✨ Thanks for visiting my profile! ✨</b> </p> <p align="center"> <i>Build • Learn • Improve • Repeat 🚀</i> </p> ```
