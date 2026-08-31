@@ -379,6 +379,16 @@ A machine learning project that segments customers based on demographic and spen
   <img src="./assets/space_shooter.gif" width="900" />
 </p>
 
+
+<h2>🐍 Snake Eating My Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/tapasilikithareddy/tapasilikithareddy/output/github-contribution-grid-snake-dark.svg"
+    width="900"
+  />
+</p>
+
 ---
 
 <h2>
