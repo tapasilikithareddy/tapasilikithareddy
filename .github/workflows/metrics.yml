@@ -13,53 +13,25 @@ jobs:
       contents: write
 
     steps:
-
-      - name: Overview
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: tapasilikithareddy
+
           template: classic
-          base: header, activity, community, repositories, metadata
-          filename: assets/metrics.plugin.overview.svg
+          filename: metrics.svg
 
-      - name: Contribution Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: tapasilikithareddy
-          base: ""
+          base: header, activity, community, repositories, metadata
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          filename: assets/metrics.plugin.isocalendar.fullyear.svg
 
-      - name: Introduction
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: tapasilikithareddy
-          base: ""
           plugin_introduction: yes
           plugin_introduction_title: yes
-          filename: assets/metrics.plugin.introduction.svg
 
-      - name: Stargazers
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: tapasilikithareddy
-          base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
-          filename: assets/metrics.plugin.stargazers.svg
 
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: tapasilikithareddy
-          template: classic
-          base: ""
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          filename: assets/metrics.plugin.achievements.svg
