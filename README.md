@@ -246,3 +246,86 @@ Software Engineering
 ├── AI & RAG Applications
 ├── Cloud & Deployment
 └── Data Structures & Problem Solving
+```
+
+<h2 id="github-stats">
+  📊 GitHub Stats
+</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tapasilikithareddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tapasilikithareddy&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasilikithareddy&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<h2>
+  📈 Contribution Graph
+</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tapasilikithareddy&theme=github-compact&area=true&hide_border=true" />
+
+</p>
+
+---
+
+<h2>
+  💡 My GitHub Philosophy
+</h2>
+
+<p align="center">
+
+<b>Learn → Build → Debug → Improve → Repeat 🚀</b>
+
+</p>
+
+---
+
+<h2>
+  🤝 Let's Connect
+</h2>
+
+<p align="center">
+
+I'm always interested in learning, building projects, and connecting with other developers.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/tapasi-likitha-reddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tapasilikithareddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my GitHub profile! ✨
+</p>
+
+<p align="center">
+  <i>Build • Learn • Improve • Repeat 🚀</i>
+</p>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️-Back%20to%20Top-0e75b6?style=flat-square" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
