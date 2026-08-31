@@ -47,7 +47,7 @@
   👩‍💻 About Me
 </h2>
 
-<img align="right" width="350" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="350" alt="Woman coding" src="./assets/woman-coding.gif">
 
 - 💻 Software Engineer with a strong foundation in software development.
 - 🎓 B.Tech in Computer Science & Engineering.
@@ -143,63 +143,121 @@
   🚀 Featured Projects
 </h2>
 
-### 🤖 Chat with PDF & Website — RAG Pipeline
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<h3>🤖 Chat with PDF & Website — RAG Pipeline</h3>
+
+<p>
 A Retrieval-Augmented Generation application that allows users to process information from PDF documents and websites and interact with the retrieved content.
+</p>
 
-**Tech:** Python • Streamlit • LangChain • FAISS • Sentence Transformers
+<p><b>Tech:</b> Python • Streamlit • LangChain • FAISS • Sentence Transformers</p>
 
-🔗 [View Project](https://github.com/tapasilikithareddy/Chat-with-PDF-and-Website-Using-RAG-Pipeline)
+<p>
+<a href="https://github.com/tapasilikithareddy/Chat-with-PDF-and-Website-Using-RAG-Pipeline">
+  🔗 View Project
+</a>
+</p>
 
----
+</td>
 
-### 📋 Team Task Manager
+<td width="50%" valign="top">
 
+<h3>📋 Team Task Manager</h3>
+
+<p>
 A full-stack task management application built with Flask that supports authentication, role-based access, project creation, task assignment, and task tracking.
+</p>
 
-**Tech:** Python • Flask • HTML • CSS • SQLite
+<p><b>Tech:</b> Python • Flask • HTML • CSS • SQLite</p>
 
-🔗 [View Project](https://github.com/tapasilikithareddy/team-task-manager)
+<p>
+<a href="https://github.com/tapasilikithareddy/team-task-manager">
+  🔗 View Project
+</a>
+</p>
 
----
+</td>
+</tr>
 
-### 💰 Personal Finance Management System
+<tr>
+<td width="50%" valign="top">
 
+<h3>💰 Personal Finance Management System</h3>
+
+<p>
 A full-stack application designed to help users manage and organize their personal financial information.
+</p>
 
-**Tech:** JavaScript • Java • HTML • CSS
+<p><b>Tech:</b> JavaScript • Java • HTML • CSS</p>
 
-🔗 [View Project](https://github.com/tapasilikithareddy/Personal-Finance-Management-System)
+<p>
+<a href="https://github.com/tapasilikithareddy/Personal-Finance-Management-System">
+  🔗 View Project
+</a>
+</p>
 
----
+</td>
 
-### 🍎 Apple Website Clone
+<td width="50%" valign="top">
 
+<h3>🍎 Apple Website Clone</h3>
+
+<p>
 An interactive Apple-inspired website featuring 3D elements, animations, and responsive design.
+</p>
 
-**Tech:** React • Three.js • GSAP • JavaScript
+<p><b>Tech:</b> React • Three.js • GSAP • JavaScript</p>
 
-🔗 [View Project](https://github.com/tapasilikithareddy/Apple-Website-Clone-with-React-Three.js-GSAP)
+<p>
+<a href="https://github.com/tapasilikithareddy/Apple-Website-Clone-with-React-Three.js-GSAP">
+  🔗 View Project
+</a>
+</p>
 
----
+</td>
+</tr>
 
-### 🔐 Secure Data Hiding in Image
+<tr>
+<td width="50%" valign="top">
 
+<h3>🔐 Secure Data Hiding in Image</h3>
+
+<p>
 A Python-based steganography project for hiding and extracting information within images while maintaining visual integrity.
+</p>
 
-**Tech:** Python • OpenCV • NumPy • Pillow • Tkinter
+<p><b>Tech:</b> Python • OpenCV • NumPy • Pillow • Tkinter</p>
 
-🔗 [View Project](https://github.com/tapasilikithareddy/Secure-Data-Hiding-in-Image)
+<p>
+<a href="https://github.com/tapasilikithareddy/Secure-Data-Hiding-in-Image">
+  🔗 View Project
+</a>
+</p>
 
----
+</td>
 
-### 📊 Customer Segmentation using K-Means
+<td width="50%" valign="top">
 
+<h3>📊 Customer Segmentation using K-Means</h3>
+
+<p>
 A machine learning project that segments customers based on demographic and spending behavior using K-Means clustering.
+</p>
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+<p><b>Tech:</b> Python • Pandas • NumPy • Scikit-learn • Matplotlib</p>
 
-🔗 [View Project](https://github.com/tapasilikithareddy/Customer-Segmentation-KMeans)
+<p>
+<a href="https://github.com/tapasilikithareddy/Customer-Segmentation-KMeans">
+  🔗 View Project
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -221,15 +279,13 @@ A machine learning project that segments customers based on demographic and spen
   📜 Certifications & Learning
 </h2>
 
-- 🏆 Salesforce Administrator
 - 🏆 Salesforce Platform Developer I
+- 🏆 Salesforce Administrator
 - ☁️ AWS Academy Cloud Foundations
 - ☁️ Google Cloud Foundations
 - 📚 IBM SkillsBuild
 - 📚 Coursera
 - 📚 Infosys Springboard
-- 📚 TCS iON Career Edge
-- 📚 Salesforce Development
 
 ---
 
@@ -238,15 +294,23 @@ A machine learning project that segments customers based on demographic and spen
 </h2>
 
 ```text
-Software Engineering
-├── Backend Development
-├── Full Stack Development
-├── Python
-├── Java
-├── AI & RAG Applications
-├── Cloud & Deployment
-└── Data Structures & Problem Solving
+🌱 2026 LEARNING PATH
+│
+├── 🤖 AI & GENERATIVE AI              ├── 💻 FULL STACK
+│   ├── Generative AI                  │   ├── Python → FastAPI
+│   ├── RAG + Vector DB                │   ├── Java → Spring Boot
+│   ├── LLM Applications               │   ├── TypeScript → React
+│   └── AI Agents                      │   └── REST APIs
+│
+├── ☁️ CLOUD & DEVOPS                  └── 🧠 ENGINEERING
+│   ├── AWS                                ├── System Design
+│   ├── Docker                             ├── DSA
+│   └── CI/CD                              └── Testing & Debugging
+│
+└── 🚀 BUILD → LEARN → IMPROVE → REPEAT
 ```
+---
+
 <h2 id="github-stats">
   📊 GitHub Metrics
 </h2>
