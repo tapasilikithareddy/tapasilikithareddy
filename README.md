@@ -47,7 +47,7 @@
   👩‍💻 About Me
 </h2>
 
-<img align="right" width="350" alt="Woman coding" src="./assets/woman-coding.gif">
+<img align="right" width="330" hspace="25" alt="Woman coding" src="./assets/woman-coding.gif">
 
 - 💻 Software Engineer with a strong foundation in software development.
 - 🎓 B.Tech in Computer Science & Engineering.
@@ -88,54 +88,82 @@
 ---
 
 <h2 id="technical-skills">
-  🛠️ Technical Skills
+  💻 Technical Skills
 </h2>
 
-<h3>💻 Programming Languages</h3>
+<h3>🐍 Programming Languages</h3>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js" />
-</a>
+<p>
+  <img src="./skills/python.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js" />
+</p>
 
 <h3>🌐 Web Development</h3>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,dotnet" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="./skills/javascript.svg" width="50" height="50" />
+  <img src="./skills/typescript.svg" width="50" height="50" />
+  <img src="./skills/react.svg" width="50" height="50" />
+  <img src="./skills/django.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=flask,dotnet" />
+</p>
 
 <h3>🤖 AI & Machine Learning</h3>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python" />
-</a>
+<div>
+  <img src="./skills/python.svg"
+       width="48"
+       height="48"
+       align="left"
+       style="margin-right: 12px;" />
 
-<p>
-  LangChain • RAG • FAISS • Pandas • NumPy • Scikit-learn
-</p>
+  <div>
+    <img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square" />
+    <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
+    <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square" />
+    <img src="https://img.shields.io/badge/FAISS-111827?style=flat-square" />
+  </div>
+
+  <div>
+    <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square" />
+    <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square" />
+    <img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square" />
+  </div>
+</div>
+
+<div style="clear: both;"></div>
 
 <h3>🗄️ Databases</h3>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-</a>
+<p>
+  <img src="./skills/mysql.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
+</p>
 
 <h3>☁️ Cloud & DevOps</h3>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" />
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  <img src="./skills/docker.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="./skills/github.svg" width="50" height="50" />
+</p>
 <h3>⚙️ Tools</h3>
 
-<a href="https://skillicons.dev">
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,maven" />
-</a>
+</p>
 
 <h3>☁️ Salesforce</h3>
 
 <p>
-  Salesforce Administrator • Salesforce Platform Developer I • Salesforce Development
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Administrator-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform%20Developer%20I-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Salesforce%20Development-111827?style=flat-square" />
 </p>
+
 
 ---
 
@@ -361,20 +389,17 @@ A machine learning project that segments customers based on demographic and spen
   🤝 Let's Connect
 </h2>
 
-<p align="center">
+<p>
+  I'm always interested in learning, building projects, and connecting with other developers.
+</p>
 
-I'm always interested in learning, building projects, and connecting with other developers.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/tapasi-likitha-reddy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:tapasilikithareddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tapasilikithareddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -399,14 +424,6 @@ I'm always interested in learning, building projects, and connecting with other 
   📖 Guest Book
 </h2>
 
-<p align="center">
-  Leave a message in my guest book! 💌
-</p>
-
-<p align="center">
-  <a href="https://github.com/tapasilikithareddy/tapasilikithareddy/issues/new?template=guestbook-entry.md">
-    <img src="https://img.shields.io/badge/💌%20Leave%20a%20Message-0A66C2?style=for-the-badge" alt="Leave a message" />
-  </a>
-</p>
+- Leave a message [Here](https://github.com/tapasilikithareddy/tapasilikithareddy/issues/new?template=guestbook-entry.md)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
