@@ -247,23 +247,37 @@ Software Engineering
 ├── Cloud & Deployment
 └── Data Structures & Problem Solving
 ```
-
 <h2 id="github-stats">
-  📊 GitHub Stats
+  📊 GitHub Metrics
 </h2>
 
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
----
+<table>
+<tr>
+<td width="50%">
 
-<h2>
-  📈 Contribution Graph
-</h2>
+<img src="./assets/metrics.plugin.overview.svg" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapasilikithareddy&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+</td>
+<td width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="./assets/metrics.plugin.introduction.svg" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="./assets/metrics.plugin.stargazers.svg" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -312,6 +326,22 @@ I'm always interested in learning, building projects, and connecting with other 
 <p align="center">
   <a href="#top">
     <img src="https://img.shields.io/badge/⬆️-Back%20to%20Top-0e75b6?style=flat-square" />
+  </a>
+</p>
+
+---
+
+<h2 id="guest-book">
+  📖 Guest Book
+</h2>
+
+<p align="center">
+  Leave a message in my guest book! 💌
+</p>
+
+<p align="center">
+  <a href="https://github.com/tapasilikithareddy/tapasilikithareddy/issues/new?template=guestbook-entry.md">
+    <img src="https://img.shields.io/badge/💌%20Leave%20a%20Message-0A66C2?style=for-the-badge" alt="Leave a message" />
   </a>
 </p>
 
